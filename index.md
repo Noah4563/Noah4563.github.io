@@ -2,7 +2,7 @@
 
 Im a first year computer science major at Csuf and plan to graduate in 2027.
 
-## Favorite CPSC 120 Labs
+ss# Favorite CPSC 120 Labs
 
 * Lab 2 part 1
 This was one of my favorite labs because it was one of the first labs that we started. Also it was one of the first ever labs we actually had to try on to get the formatting right. This lab is also where I got to work with my first partner and learned how to collaborate with someone else on coding.
