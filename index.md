@@ -1,6 +1,6 @@
 # Noah Meza's Portfollio
 
-I a first year computer science major at Csuf and plan to graduate in 2027.
+Im a first year computer science major at Csuf and plan to graduate in 2027.
 
 ## Favorite CPSC 120 Labs
 
